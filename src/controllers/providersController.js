@@ -2,8 +2,6 @@ const providersServices = require("../services/providersServices");
 
 const getProviders = async (req, res) => {
   try {
-    // const { id } = req.params;
-
     const providers = await providersServices.getProviders();
 
     return res.status(200).json(providers);

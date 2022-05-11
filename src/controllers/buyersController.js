@@ -2,8 +2,6 @@ const buyersServices = require("../services/buyersServices");
 
 const getBuyers = async (req, res) => {
   try {
-    // const { id } = req.params;
-
     const buyers = await buyersServices.getBuyers();
 
     return res.status(200).json(buyers);
