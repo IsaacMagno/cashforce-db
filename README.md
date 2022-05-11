@@ -1,3 +1,9 @@
-#### Projeto em desenvolvimento
+#### CashForce orders App
 
-Processo seletivo CashForce
+API Desenvolvida para interação com o banco de dados da CashForce.
+
+##### 💻 Tecnologias utilizadas:
+
+- [x] Node
+- [x] Sequelize
+- [x] MySQL
