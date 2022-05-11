@@ -1,4 +1,4 @@
-#### CashForce orders App
+#### CashForce - Orders App
 
 API Desenvolvida para interação com o banco de dados da CashForce.
 
