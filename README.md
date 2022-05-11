@@ -2,7 +2,7 @@
 
 API Desenvolvida para interação com o banco de dados da CashForce.
 
-##### 💻 Tecnologias utilizadas:
+##### 💻 Principais Tecnologias utilizadas:
 
 - [x] Node
 - [x] Sequelize
@@ -10,13 +10,14 @@ API Desenvolvida para interação com o banco de dados da CashForce.
 
 
 ##### Intalar dependencias:
-
-*npm install*
-
+```
+npm install
+```
 ##### Iniciar servidor:
-
-*npm start*
-
+```
+npm start
+```
 ##### Iniciar servidor em modo desenvolvimento:
-
-*npm run dev*
+```
+npm run dev
+```
